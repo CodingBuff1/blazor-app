@@ -1,7 +1,9 @@
-# Build
+# .NET Blazor app
+
+### Build
 
 `dotnet build`
 
-# Run
+### Run
 
 `dotnet watch`
